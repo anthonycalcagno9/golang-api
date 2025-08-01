@@ -1,6 +1,6 @@
 # Golang API
 
-A simple Go API for managing meals.
+A simple Go API for sending meal data to the front end. Used gorilla mux router and listenAndServe to serve traffic on port 8080.
 
 ## Structure
 
